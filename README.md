@@ -1,2 +1,16 @@
-# Autism-Learning-App-AI-Recommendation-System
-An AI-powered personalized learning platform for autistic children, featuring a Flutter mobile application for interactive learning and a web dashboard for teachers and parents to monitor progress, manage content, and support adaptive education.
+# autism_parent_web
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
